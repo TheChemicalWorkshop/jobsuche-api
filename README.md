@@ -148,10 +148,10 @@ Abrufen von Details zu einem Job.
 ### Bewerbung
 Kontaktdaten für eine Bewerbung. (Ansprechpartner, Telefonnummer, …)
 
-**URL** https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v4/jobs/[hashId]/bewerbung
+**URL** https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v1/app/jobs/[hashId]/bewerbung
 
 ### Arbeitgeberlogo zu einem Job
 Logo des Unternehmens
 
-**URL** https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v4/arbeitgeberlogo/[hashId]
+**URL** https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/ed/v1/arbeitgeberlogo/[logohashId]
 
